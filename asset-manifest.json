@@ -3,8 +3,8 @@
     "static/js/0.8e0cd1d3.chunk.js": "/demo-naira/static/js/0.8e0cd1d3.chunk.js",
     "static/js/0.8e0cd1d3.chunk.js.map": "/demo-naira/static/js/0.8e0cd1d3.chunk.js.map",
     "main.css": "/demo-naira/static/css/main.ac2cab33.chunk.css",
-    "main.js": "/demo-naira/static/js/main.845d0429.chunk.js",
-    "main.js.map": "/demo-naira/static/js/main.845d0429.chunk.js.map",
+    "main.js": "/demo-naira/static/js/main.db50b1f7.chunk.js",
+    "main.js.map": "/demo-naira/static/js/main.db50b1f7.chunk.js.map",
     "runtime-main.js": "/demo-naira/static/js/runtime-main.deb555bf.js",
     "runtime-main.js.map": "/demo-naira/static/js/runtime-main.deb555bf.js.map",
     "static/js/3.1f087ac2.chunk.js": "/demo-naira/static/js/3.1f087ac2.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/6.8c5626ee.chunk.js": "/demo-naira/static/js/6.8c5626ee.chunk.js",
     "static/js/6.8c5626ee.chunk.js.map": "/demo-naira/static/js/6.8c5626ee.chunk.js.map",
     "index.html": "/demo-naira/index.html",
-    "precache-manifest.d030b01d60b69aeb1134db0c05cb28a1.js": "/demo-naira/precache-manifest.d030b01d60b69aeb1134db0c05cb28a1.js",
+    "precache-manifest.9a7a38db0e82180132d302be754ee0de.js": "/demo-naira/precache-manifest.9a7a38db0e82180132d302be754ee0de.js",
     "service-worker.js": "/demo-naira/service-worker.js",
     "static/css/4.e1450926.chunk.css.map": "/demo-naira/static/css/4.e1450926.chunk.css.map",
     "static/css/5.275413d5.chunk.css.map": "/demo-naira/static/css/5.275413d5.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.deb555bf.js",
     "static/js/3.1f087ac2.chunk.js",
     "static/css/main.ac2cab33.chunk.css",
-    "static/js/main.845d0429.chunk.js"
+    "static/js/main.db50b1f7.chunk.js"
   ]
 }

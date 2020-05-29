@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b345da2d39ff2069164060ab1c2ec628",
+    "revision": "0a328e7de061bdc4bc54c6c6db94f78b",
     "url": "/demo-naira/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-naira/static/css/6.00d7090a.chunk.css"
   },
   {
-    "revision": "3a826204bfd7dc1169a0",
+    "revision": "0284fc4eda624cd6fae1",
     "url": "/demo-naira/static/css/main.ac2cab33.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-naira/static/js/6.8c5626ee.chunk.js"
   },
   {
-    "revision": "3a826204bfd7dc1169a0",
-    "url": "/demo-naira/static/js/main.845d0429.chunk.js"
+    "revision": "0284fc4eda624cd6fae1",
+    "url": "/demo-naira/static/js/main.db50b1f7.chunk.js"
   },
   {
     "revision": "b2710558d295877aadc0",
