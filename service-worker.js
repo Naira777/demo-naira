@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/demo-naira/precache-manifest.9b1015a7fc2172586e64fd1943ce5a5e.js"
+  "/demo-naira/precache-manifest.d5aded0e34d09cd5f17ab8b50fa1ce0a.js"
 );
 
 self.addEventListener('message', (event) => {
