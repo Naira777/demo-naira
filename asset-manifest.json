@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/demo-naira/static/css/main.c8b5611c.chunk.css",
-    "main.js": "/demo-naira/static/js/main.9878aa6b.chunk.js",
-    "main.js.map": "/demo-naira/static/js/main.9878aa6b.chunk.js.map",
-    "runtime-main.js": "/demo-naira/static/js/runtime-main.2f068d0a.js",
-    "runtime-main.js.map": "/demo-naira/static/js/runtime-main.2f068d0a.js.map",
+    "main.js": "/demo-naira/static/js/main.68cf10c3.chunk.js",
+    "main.js.map": "/demo-naira/static/js/main.68cf10c3.chunk.js.map",
+    "runtime-main.js": "/demo-naira/static/js/runtime-main.9605d167.js",
+    "runtime-main.js.map": "/demo-naira/static/js/runtime-main.9605d167.js.map",
     "static/css/2.af3c1da9.chunk.css": "/demo-naira/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4ad0d8ac.chunk.js": "/demo-naira/static/js/2.4ad0d8ac.chunk.js",
-    "static/js/2.4ad0d8ac.chunk.js.map": "/demo-naira/static/js/2.4ad0d8ac.chunk.js.map",
+    "static/js/2.e90bf1fd.chunk.js": "/demo-naira/static/js/2.e90bf1fd.chunk.js",
+    "static/js/2.e90bf1fd.chunk.js.map": "/demo-naira/static/js/2.e90bf1fd.chunk.js.map",
     "static/css/3.117bb653.chunk.css": "/demo-naira/static/css/3.117bb653.chunk.css",
-    "static/js/3.85b131b3.chunk.js": "/demo-naira/static/js/3.85b131b3.chunk.js",
-    "static/js/3.85b131b3.chunk.js.map": "/demo-naira/static/js/3.85b131b3.chunk.js.map",
-    "static/js/4.9d235c39.chunk.js": "/demo-naira/static/js/4.9d235c39.chunk.js",
-    "static/js/4.9d235c39.chunk.js.map": "/demo-naira/static/js/4.9d235c39.chunk.js.map",
+    "static/js/3.46153314.chunk.js": "/demo-naira/static/js/3.46153314.chunk.js",
+    "static/js/3.46153314.chunk.js.map": "/demo-naira/static/js/3.46153314.chunk.js.map",
+    "static/js/4.cb152d7b.chunk.js": "/demo-naira/static/js/4.cb152d7b.chunk.js",
+    "static/js/4.cb152d7b.chunk.js.map": "/demo-naira/static/js/4.cb152d7b.chunk.js.map",
     "index.html": "/demo-naira/index.html",
-    "precache-manifest.8eec5932ddc305503b4a4e47cea8e33a.js": "/demo-naira/precache-manifest.8eec5932ddc305503b4a4e47cea8e33a.js",
+    "precache-manifest.5131641aada8f529abff4517d020d7bb.js": "/demo-naira/precache-manifest.5131641aada8f529abff4517d020d7bb.js",
     "service-worker.js": "/demo-naira/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/demo-naira/static/css/2.af3c1da9.chunk.css.map",
     "static/css/3.117bb653.chunk.css.map": "/demo-naira/static/css/3.117bb653.chunk.css.map",
     "static/css/main.c8b5611c.chunk.css.map": "/demo-naira/static/css/main.c8b5611c.chunk.css.map",
-    "static/js/2.4ad0d8ac.chunk.js.LICENSE.txt": "/demo-naira/static/js/2.4ad0d8ac.chunk.js.LICENSE.txt",
+    "static/js/2.e90bf1fd.chunk.js.LICENSE.txt": "/demo-naira/static/js/2.e90bf1fd.chunk.js.LICENSE.txt",
     "static/media/Preloader.svg": "/demo-naira/static/media/Preloader.69104e50.svg",
     "static/media/facebook.ico": "/demo-naira/static/media/facebook.15e3faab.ico",
     "static/media/instagram.ico": "/demo-naira/static/media/instagram.ae4a3638.ico",
@@ -27,10 +27,10 @@
     "static/media/user.png": "/demo-naira/static/media/user.6db09181.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f068d0a.js",
+    "static/js/runtime-main.9605d167.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4ad0d8ac.chunk.js",
+    "static/js/2.e90bf1fd.chunk.js",
     "static/css/main.c8b5611c.chunk.css",
-    "static/js/main.9878aa6b.chunk.js"
+    "static/js/main.68cf10c3.chunk.js"
   ]
 }
